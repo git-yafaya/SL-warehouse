@@ -1,0 +1,7 @@
+{
+  "id": "sl_warehouse",
+  "name": "仓库升级 / Warehouse Upgrades",
+  "author": "yafaya",
+  "version": "0.2.1",
+  "assembly": "sl_warehouse.dll"
+}

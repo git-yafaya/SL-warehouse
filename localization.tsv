@@ -1,0 +1,19 @@
+Term	Notes	English	Chinese (Simplified)
+slw_large_warehouse_name		Large Warehouse	大仓库
+slw_large_warehouse_description		Increases the Card Cap on this board by 30.	将当前区域的卡牌上限增加30。
+slw_large_warehouse_status		Building a Large Warehouse	正在建造大仓库
+slw_larger_warehouse_name		Larger Warehouse	更大仓库
+slw_larger_warehouse_description		Increases the Card Cap on this board by 100.	将当前区域的卡牌上限增加100。
+slw_larger_warehouse_status		Building a Larger Warehouse	正在建造更大仓库
+slw_huge_warehouse_name		Huge Warehouse	超大仓库
+slw_huge_warehouse_description		Increases the Card Cap on this board by 800.	将当前区域的卡牌上限增加800。
+slw_huge_warehouse_status		Building a Huge Warehouse	正在建造超大仓库
+slw_warehouse_description		Increases the Card Cap on this board by [capacity].	将当前区域的卡牌上限增加[capacity]。
+slw_large_warehouse_count		Large Warehouse: ingredients	大仓库：所需普通仓库数量
+slw_large_warehouse_capacity		Large Warehouse: capacity	大仓库：容量加成
+slw_larger_warehouse_count		Larger Warehouse: ingredients	更大仓库：所需大仓库数量
+slw_larger_warehouse_capacity		Larger Warehouse: capacity	更大仓库：容量加成
+slw_huge_warehouse_count		Huge Warehouse: ingredients	超大仓库：所需更大仓库数量
+slw_huge_warehouse_capacity		Huge Warehouse: capacity	超大仓库：容量加成
+slw_config_count_help		Integer from 1 to 100. Saved and applied by reloading when you leave this menu. With 1, a single ingredient starts upgrading automatically.	整数1至100。返回时保存并重新加载生效；设为1时，单张材料会自动开始升级。
+slw_config_capacity_help		Integer from 1 to 1000000. Saved and applied by reloading when you leave this menu. Applies to existing and new warehouses.	整数1至1000000。返回时保存并重新加载生效，对已有和新建仓库都有效。

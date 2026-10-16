@@ -1,0 +1,16 @@
+{
+  "id": "blueprint_slw_larger_warehouse",
+  "nameTerm": "slw_larger_warehouse_name",
+  "group": "Building",
+  "icon": "larger_warehouse.png",
+  "needsExactMatch": true,
+  "subprints": [
+    {
+      "RequiredCards": "slw_large_warehouse, slw_large_warehouse, slw_large_warehouse",
+      "CardsToRemove": "slw_large_warehouse, slw_large_warehouse, slw_large_warehouse",
+      "ResultCard": "slw_larger_warehouse",
+      "Time": 20,
+      "StatusTerm": "slw_larger_warehouse_status"
+    }
+  ]
+}

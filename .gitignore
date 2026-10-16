@@ -1,0 +1,13 @@
+.tools/
+dist/
+bin/
+obj/
+*.user
+art/
+docs/
+TASKS.md
+config.json
+*.log
+*.sav
+.env
+.env.*

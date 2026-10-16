@@ -1,0 +1,11 @@
+{
+  "id": "slw_huge_warehouse",
+  "nameTerm": "slw_huge_warehouse_name",
+  "descriptionTerm": "slw_huge_warehouse_description",
+  "type": "Structures",
+  "script": "SLWarehouse.UpgradedWarehouse",
+  "icon": "huge_warehouse.png",
+  "value": 750,
+  "_IsFoil": true,
+  "_Capacity": 800
+}

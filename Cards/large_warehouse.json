@@ -1,0 +1,10 @@
+{
+  "id": "slw_large_warehouse",
+  "nameTerm": "slw_large_warehouse_name",
+  "descriptionTerm": "slw_large_warehouse_description",
+  "type": "Structures",
+  "script": "SLWarehouse.UpgradedWarehouse",
+  "icon": "large_warehouse.png",
+  "value": 10,
+  "_Capacity": 30
+}
